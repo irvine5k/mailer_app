@@ -1,6 +1,10 @@
 # mailer_app
 
-A new Flutter project.
+A mailer app concept built in Flutterando's challenge.
+
+## Screenshot
+
+- [Home](app.gif)
 
 ## Getting Started
 
